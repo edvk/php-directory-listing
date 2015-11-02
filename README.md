@@ -8,7 +8,7 @@ with Twitter Bootstrap theme and Font Awesome icons.
 ##Screenshot
 ![Screenshot](screenshot.png)
 
-**Demo:** http://wayi.me/demo/php-directory-listing/
+**Demo Link:** http://wayi.me/demo/php-directory-listing/
 
 ##Usage
 The only file and folder you need to get started are `index.html` and `_resources` respectively.
